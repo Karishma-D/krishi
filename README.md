@@ -1,2 +1,2 @@
 # krishi
-the file has information about the rainbow
+the file has python code
