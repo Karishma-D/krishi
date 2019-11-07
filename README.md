@@ -1,3 +1,2 @@
 # krishi
-just another trial
-ohh ya ya yay yyaaee... ohh yayeeeye
+the file has information about the rainbow
