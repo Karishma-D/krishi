@@ -17,3 +17,6 @@ print(list3)
 
 if list2==list3:
   print("Kya chutiyapa hai")
+else:
+  print("mand buddhi saala")
+  
